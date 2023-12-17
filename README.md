@@ -1,4 +1,4 @@
-## My Helix Config 
+## My Helix Editor Config 
 - Typescript
 - C++
 - Python
