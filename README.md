@@ -2,3 +2,6 @@
 - Typescript
 - C++
 - Python
+- HTML
+- CSS
+- SCASS
